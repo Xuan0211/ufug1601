@@ -6,9 +6,13 @@ Run: python hello.py
 
 there is a line.
 
+<<<<<<< HEAD
 
 pPP
 
 1q1q11
 
 
+=======
+HHHH
+>>>>>>> parent of e07d448 (Update README.md)
