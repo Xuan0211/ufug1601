@@ -1,1 +1,1 @@
-print("Hello, UFUG1601!")
+print("Hello, class! Welcome to UFUG1601!")
